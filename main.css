@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  font-size: 45px;
+  margin:auto;
+  padding:10px;
+  
+}
+nav {
+  background-color:#4b3621;
+  text-align:center;
+}
+nav>a{
+    font-family: helvetica;
+    font-size: 15px;
+    color: white;
+    margin-left: 20px;
+    
+  
+}
+body {
+  background-color:#c19a6b;
+}
+.title{
+  text-align: center;
+  
+}
+
+
+#about-me{
+  float:left;
+  height: 320px;
+  width: 600px;
+  margin: 20px;
+}
+
+#skills{
+  margin-top:200px;
+  margin-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 0px;
+  background-color: #fbc97f;
+}
+#Prof-Exp{
+
+  margin-left: 10px;
+  margin-right: 550px;
+  margin-bottom: 150px;
+}
+#school{
+  margin-left:0px;
+  margin-right: 320px;
+  background-color: #fbc97f;
+}
+img {
+  width: 350px;
+  height: 450px;
+  margin-left: 455px;
+}
+.pict{
+  background-color:#fbc97f;
+  border:6px solid #fbc97f;
+}
